@@ -1,0 +1,17 @@
+/idea
+/idea/*
+/build
+/build/*
+/dist/*
+/logs
+/logs/*
+/app.log
+.env.*
+.env*
+.env
+env.*
+/.vscode
+/files
+/repos
+/logins
+.history
